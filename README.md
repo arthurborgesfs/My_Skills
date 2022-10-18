@@ -1,21 +1,31 @@
-<h1>My Skills</h1>
-<h3>📋 App para listar suas habilidades, construído com base no curso Ignite da Rocketseat.</h3>
+# My Skills
+### 📋 App para listar suas habilidades, construído com base no curso Ignite da Rocketseat.
 
-<h4> Aplicativo de cadastro de capacidades. </h4>
+#### Aplicativo de cadastro de capacidades. 
 
-<h4>Tecnologias utilizadas:</h4>
-<h4>- React Native -> v0.69</h4>
-<h4>- TypeScript -> v4.8</h4>
-<h4>- Expo -> SDK46 </h4>
+#### Tecnologias utilizadas:
+#### - React Native -> v0.69
+#### - TypeScript -> v4.8
+#### - Expo -> SDK46 
+<div style="text-align:center; width: 1200px;">
+  <img src="https://user-images.githubusercontent.com/85348111/196506632-8c6df602-ac2f-49ff-8d57-b6d15df4901e.gif" alt="isolated" width="250" />
+</div>
+<br>
+<br>
 <br>
 <br>
 _________________________________________________________________________________________________
 
-<h3>📋 App to list your skills, built on Rocketseat's Ignite course. </h3>
+# My Skills
+### 📋 App to list your skills, built on Rocketseat's Ignite course. 
 
-<h4> Capacity registration application. </h4>
+#### Capacity registration application. 
 
-<h4> Technologies used: </h4>
-<h4>- React Native -> v0.69</h4>
-<h4>- TypeScript -> v4.8</h4>
-<h4>- Expo -> SDK46 </h4>
+#### Technologies used: 
+#### - React Native -> v0.69
+#### - TypeScript -> v4.8
+#### - Expo -> SDK46 
+
+<div style="text-align:center; width: 1200px;">
+  <img src="https://user-images.githubusercontent.com/85348111/196506632-8c6df602-ac2f-49ff-8d57-b6d15df4901e.gif" alt="isolated" width="250" />
+</div>
